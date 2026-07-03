@@ -11,7 +11,7 @@ Control home appliances wirelessly using an **Arduino Uno** and an **HC-05 Bluet
 *  Wireless communication using HC-05
   
 
-## 🛠️ Hardware Requirements
+##  Hardware Requirements
 
 * Arduino Uno/Nano
 * HC-05 Bluetooth Module
@@ -22,7 +22,7 @@ Control home appliances wirelessly using an **Arduino Uno** and an **HC-05 Bluet
 * Android smartphone with a Bluetooth terminal app
 
 
-## 🔌 Circuit Connections
+##  Circuit Connections
 
 ### HC-05 → Arduino
 
@@ -42,7 +42,7 @@ Control home appliances wirelessly using an **Arduino Uno** and an **HC-05 Bluet
 | GND        | GND         |
 
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Upload the Arduino sketch.
 2. Pair your smartphone with the HC-05 module (default PIN is usually **1234** or **0000**).
